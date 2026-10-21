@@ -1,7 +1,7 @@
 import json
 from decimal import Decimal
 
-with open("rate_card.json", "r") as file:
+with open("task11_ratecard.json", "r") as file:
     rates = json.load(file)
 
 BASE_RATE = Decimal(rates["base_rate"])
