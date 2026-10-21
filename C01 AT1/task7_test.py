@@ -1,4 +1,4 @@
-import milkrate as mr
+import task7 as mr
 
 farmer_id = input("Enter farmer ID: ")
 litres = float(input("Enter litres: "))
