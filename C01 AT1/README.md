@@ -1,6 +1,6 @@
 # CSA0823 – Python Programming
 
-## C01 AT1 – Python Programming Assignment
+## C01 Assignment 1 – Python Programming Assignment
 
 ### Description
 This repository contains Python programs developed as part of the C01 AT1 assignment for the CSA0823 – Python Programming course. Each task is implemented in a separate Python file.
