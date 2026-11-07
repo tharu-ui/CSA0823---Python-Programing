@@ -1,0 +1,3 @@
+department3.txt, line 2: damaged record: expected 5 comma-separated fields
+CSE, line 0: duplicate registration 192311001
+EEE, line 0: invalid e-mail 'deepa.example.com'
