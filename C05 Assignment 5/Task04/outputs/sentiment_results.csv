@@ -1,0 +1,51 @@
+Complaint,Manual Label,Predicted Label,Agreement
+The roads are clean and the air is fresh.,positive,positive,Yes
+The factory smoke makes the air bad.,negative,negative,Yes
+The bus service is fast and helpful.,positive,positive,Yes
+The streets are dirty and polluted.,negative,negative,Yes
+The air quality is good today.,positive,positive,Yes
+The waste collection service is slow.,negative,negative,Yes
+The staff are helpful and polite.,positive,positive,Yes
+There is too much smoke near the factory.,negative,negative,Yes
+The roads have improved significantly.,positive,positive,Yes
+The drainage system is broken.,negative,negative,Yes
+The environment is clean and safe.,positive,positive,Yes
+The air is polluted and unpleasant.,negative,negative,Yes
+Public transport is better now.,positive,positive,Yes
+The garbage creates a bad smell.,negative,negative,Yes
+The new park is pleasant and clean.,positive,positive,Yes
+The traffic noise is terrible.,negative,negative,Yes
+The bus arrived fast and on time.,positive,positive,Yes
+The water supply is poor.,negative,negative,Yes
+The pollution levels have improved.,positive,positive,Yes
+The factory releases dirty smoke.,negative,negative,Yes
+The workers are helpful.,positive,positive,Yes
+The roads are unsafe at night.,negative,negative,Yes
+The air is fresh after cleaning.,positive,positive,Yes
+The drainage is slow and broken.,negative,negative,Yes
+The new system is excellent.,positive,positive,Yes
+There is heavy smoke every morning.,negative,negative,Yes
+The streets are clean and pleasant.,positive,positive,Yes
+The public service is rude.,negative,negative,Yes
+The environment has become better.,positive,positive,Yes
+The garbage disposal is poor.,negative,negative,Yes
+The transport service is fast.,positive,positive,Yes
+The air is dirty near the highway.,negative,negative,Yes
+The new cleaning team is helpful.,positive,positive,Yes
+The pollution is very bad.,negative,negative,Yes
+The roads are better and safer.,positive,positive,Yes
+The factory smoke is harmful.,negative,negative,Yes
+The surroundings are fresh and clean.,positive,positive,Yes
+The public toilets are dirty.,negative,negative,Yes
+The service has improved.,positive,positive,Yes
+The air quality is poor today.,negative,negative,Yes
+The buses are clean and fast.,positive,positive,Yes
+The garbage collection is slow.,negative,negative,Yes
+The neighbourhood is pleasant.,positive,positive,Yes
+The streets are polluted and unsafe.,negative,negative,Yes
+The new road is excellent.,positive,positive,Yes
+The smoke causes a bad smell.,negative,negative,Yes
+The staff are polite and helpful.,positive,positive,Yes
+The drainage is broken and dirty.,negative,negative,Yes
+The air is fresh and clean.,positive,positive,Yes
+The pollution problem is serious.,negative,neutral,No
