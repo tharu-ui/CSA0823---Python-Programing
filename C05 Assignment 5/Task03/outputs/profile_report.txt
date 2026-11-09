@@ -1,16 +1,16 @@
-         8417684 function calls in 5.702 seconds
+         8417684 function calls in 5.274 seconds
 
    Ordered by: cumulative time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    1.515    1.515    5.702    5.702 /workspaces/CSA0823---Python-Programing/C05 Assignment 5/Task03/main.py:57(python_loop)
-  1051201    2.148    0.000    3.606    0.000 /usr/local/python/3.14.2/lib/python3.14/csv.py:173(__next__)
-  1051202    0.843    0.000    0.853    0.000 {built-in method builtins.next}
-  2102400    0.581    0.000    0.581    0.000 {method 'get' of 'dict' objects}
-  2102401    0.349    0.000    0.349    0.000 /usr/local/python/3.14.2/lib/python3.14/csv.py:159(fieldnames)
-  2102400    0.256    0.000    0.256    0.000 {built-in method builtins.len}
-     4034    0.004    0.000    0.010    0.000 <frozen codecs>:322(decode)
-     4034    0.006    0.000    0.006    0.000 {built-in method _codecs.utf_8_decode}
+        1    1.393    1.393    5.274    5.274 /workspaces/CSA0823---Python-Programing/C05 Assignment 5/Task03/main.py:57(python_loop)
+  1051201    2.024    0.000    3.352    0.000 /usr/local/python/3.14.2/lib/python3.14/csv.py:173(__next__)
+  1051202    0.766    0.000    0.775    0.000 {built-in method builtins.next}
+  2102400    0.529    0.000    0.529    0.000 {method 'get' of 'dict' objects}
+  2102401    0.325    0.000    0.325    0.000 /usr/local/python/3.14.2/lib/python3.14/csv.py:159(fieldnames)
+  2102400    0.228    0.000    0.228    0.000 {built-in method builtins.len}
+     4034    0.004    0.000    0.009    0.000 <frozen codecs>:322(decode)
+     4034    0.005    0.000    0.005    0.000 {built-in method _codecs.utf_8_decode}
         1    0.000    0.000    0.000    0.000 {built-in method _io.open}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
         1    0.000    0.000    0.000    0.000 {method '__exit__' of '_io._IOBase' objects}
